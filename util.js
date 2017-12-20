@@ -1,1 +1,5 @@
-var util=require('util');
+
+module.exports = test;
+function test() {
+    console.log("cehsi");
+}
